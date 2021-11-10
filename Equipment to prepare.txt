@@ -1,0 +1,7 @@
+#Equipment that we need to prepare!
+ 1.ESP8266 
+ 2.L298n
+ 3.battery AA 1.5A
+ 4.Chassis,Frame,Body
+ 5.hobby gear motor
+ 6.Jumper wire
